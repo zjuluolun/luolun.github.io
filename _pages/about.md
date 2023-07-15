@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>HAOMO.AI</a>; 2926863344@qq.com 
 
 profile:
   align: right
   image: luolun.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Beijing, 2926863344@qq.com</p>
+  #address: >
+  #  <p>Beijing, 2926863344@qq.com</p>
 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+#latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+#social: true  # includes social icons at the bottom of the page
 ---
 
 Hello, there! I am now a software engineer at HAOMO.AI TECH and working on building a robust localization system for large-scale and long-term autonomy. Welcome to join us if you are looking for a job!
