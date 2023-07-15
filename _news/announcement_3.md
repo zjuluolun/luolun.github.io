@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted by ICCV :sparkles: :smile:
+2 papers are accepted by ICCV :sparkles: :smile:
